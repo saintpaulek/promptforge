@@ -16,20 +16,4 @@ stay valid in this app.
 
 ## Local preview (optional)
 
-```
-npm install
-npm run dev
-```
 
-## Build for production
-
-```
-npm install
-npm run build
-```
-
-This creates a `dist/` folder — that's the entire live website, ready to upload
-to any static host.
-
-See the full launch guide for step-by-step Vercel/Netlify deployment and the
-Selar listing walkthrough.
